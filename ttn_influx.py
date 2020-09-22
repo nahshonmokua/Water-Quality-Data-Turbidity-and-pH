@@ -10,7 +10,7 @@ access_key = "ttn-account-v2.HEp-fHqzxm7bkt5712WWFHd8jqAtDZuhH0gE3Gb5EeM"
 
 GTW_ID = 'eui-00800000a0002125' # gateway of interest
 
-db_client = InfluxDBClient(host='localhost', port=8086)
+db_client = InfluxDBClient(host='35.247.79.208', port=8086, username='admin', password='do3uA2oR31253iSv', ssl=True)
 db_client.create_database('wqm_db')
 db_client.switch_database('wqm_db')
 
