@@ -16,6 +16,7 @@ The data acquisition process involved deploying a sensor node at the Nyeri Water
 | Columns          | timestamp, turbidity, pH                                  |
 | Data Range       | 2020-11-04 11:00:31.822439+00:00 to 2021-01-04 09:54:25.214766+00:00 |
 
+More details can be found in the Jupyter Notebook (DataSetsPlot) included in the files here.
 ## **NOTE**
 
 A comprehensive description is available in the uploaded Master of Science thesis report. Additionally, pertinent findings have been published in the following journals: [Journal 1](https://www.ijcaonline.org/archives/volume174/number21/31799-2021921113/) and [Journal 2](https://ijcaonline.org/archives/volume174/number26/31842-2021921196/).
