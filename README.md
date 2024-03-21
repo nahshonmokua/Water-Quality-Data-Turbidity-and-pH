@@ -4,7 +4,8 @@ This Water Quality dataset recorded turbidity and pH levels or raw water. It aid
 
 The data acquisition process involved deploying a sensor node at the Nyeri Water and Sanitation Company (NYEWASCO) water quality treatment plant, where it collected data on turbidity and pH levels over 60 days. The system deployed LoRaWAN for communication, ensuring long-range and low-power data transmission. The data collected was then forwarded to The Things Network platform and a Google Cloud Platform Console containing an influx dB virtual machine database.
 
-#Features of the turbidity and water pH dataset
+## **Features of the Turbidity and Water pH Dataset**
+
 
 | Field            | Description                                          |
 | ---------------- | ---------------------------------------------------- |
