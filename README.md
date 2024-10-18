@@ -19,5 +19,5 @@ The data acquisition process involved deploying a sensor node at the Nyeri Water
 More details can be found in the Jupyter Notebook (DataSetsPlot) included in the files here.
 ## **NOTE**
 
-A comprehensive description is available in the uploaded Master of Science thesis report. Additionally, pertinent findings have been published in the following journals: [Journal 1](https://www.ijcaonline.org/archives/volume174/number21/31799-2021921113/) and [Journal 2](https://ijcaonline.org/archives/volume174/number26/31842-2021921196/).
+A comprehensive description is available in the uploaded Master of Science thesis report. Additionally, pertinent findings have been published in the following journal: [Journal 1](https://www.ijcaonline.org/archives/volume174/number21/31799-2021921113/)
 
